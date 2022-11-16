@@ -1,4 +1,4 @@
-# Mobile Mindset: finding the right tools for your new job - AWS She Builds Day - Transcript
+# Mobile Mindset - AWS She Builds Day - Transcript
 
 Hello, and welcome to AWS She Builds!  My name is Dawn, and during the day, I'm a - DevOps, DevSecOps, SRE type person.  I like - exploring things, I like automating things, I like making things secure.
 
